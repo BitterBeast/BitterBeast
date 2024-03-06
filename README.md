@@ -26,7 +26,7 @@
  
 <p align="center">
 Used Languages 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BittrBeast&layout=compact&theme=tokyonight" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitterBeast&layout=compact&theme=tokyonight" align="center">
 
 
 
